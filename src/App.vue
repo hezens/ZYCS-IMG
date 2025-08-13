@@ -1,5 +1,5 @@
 <template>
-  <Header title="骤雨重山图床" desc="拒绝流量劫持，全面使用HTTPS" />
+  <Header title="TOHS Img" desc="由开源平台骤雨重山图床提供驱动力" />
   <main><RouterView /></main>
   <Footer />
   <Toaster />
